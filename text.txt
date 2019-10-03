@@ -1,2 +1,1 @@
-s
-s
+git config --global user.email saravan2021@cs.ajce.in
